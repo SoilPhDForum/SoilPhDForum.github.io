@@ -1,7 +1,8 @@
-title:             浙大土壤
-<img src="project/soil.jpg" width="30" align="middle">
+#title:             浙大土壤
+#<img src="project/soil.jpg" width="30" align="middle">
 email:             12014067@zju.edu.cn 
-description:       2022年浙江大学“土壤健康与农业可持续发展”博士生论坛"
+description:       浙大土壤
+浙江大学土壤学科是朱祖祥院士等几代土壤科学家共同创建的A+国家重点学科，整体实力雄厚，优势特色明显，总体水平居国内前列。目前拥有国家和省部级工程研究中心、重点实验室3个，国家自然科学基金委“土壤污染过程与修复原理”创新研究群体和农业农村部“产地环境质量与农产品安全”创新团队，国家特聘教授和国家杰青获得者4人、国家“四青”人才7人。
 author:            Xinwei Song
 url:               "https://SoilPhDForum.github.io"
 
