@@ -1,15 +1,15 @@
-title:             System Microbiology
-email:             zhaokk@zju.edu.cn 
-description:       Exploring microbial world in a system perspective.
+title:             浙大土壤博士生论坛
+email:             12014067@zju.edu.cn 
+description:       浙江大学“土壤健康与农业可持续发展”博士生论坛"
 author:            Xinwei Song
-url:               "http://sysmicro.github.io"
+url:               "https://SoilPhDForum.github.io"
 
 # Social Profiles
-github_username:   SysMicro
+github_username:   SoilPhDForum
 
 # Build settings
 markdown:          kramdown
-paginate:          5
+paginate:          3
 plugins:
   - jekyll-feed
   - jekyll-paginate
