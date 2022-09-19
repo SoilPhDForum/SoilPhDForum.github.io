@@ -1,0 +1,15 @@
+title:             System Microbiology
+email:             zhaokk@zju.edu.cn 
+description:       Exploring microbial world in a system perspective.
+author:            Kankan Zhao
+url:               "http://sysmicro.github.io"
+
+# Social Profiles
+github_username:   SysMicro
+
+# Build settings
+markdown:          kramdown
+paginate:          5
+plugins:
+  - jekyll-feed
+  - jekyll-paginate
